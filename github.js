@@ -6,7 +6,7 @@ $( document ).ready(function() {
         "<link rel=\"stylesheet\" href=\"https://sdks.shopifycdn.com/polaris/latest/polaris.css\" />");
 
     var html = "<button type='button' class='Polaris-Button'><span class='Polaris-Button__Content'><span>Add Jackyy</span></span></button>";
-    var floatbutton = "<button type='button' style='top:0;right:0;position:fixed;' class='Polaris-Button'><span class='Polaris-Button__Content'><span>Add Jackyy</span></span></button>";
+    var floatbutton = "<button type='button' style='top:0;right:0;position:fixed;' class='Polaris-Button primary'><span class='Polaris-Button__Content'><span>Duong Ngu</span></span></button>";
 
     $('#jackylestore').append(html);
     $('#jackylestore').append(floatbutton);
